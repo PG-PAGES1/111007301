@@ -1,0 +1,335 @@
+
+fz_cishu.jpg
+size: 1380,1256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Phoenix_flame/bw_multi_vfx_b_screen_00
+  rotate: false
+  xy: 953, 480
+  size: 178, 154
+  orig: 204, 156
+  offset: 25, 2
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_01
+  rotate: true
+  xy: 799, 460
+  size: 180, 152
+  orig: 204, 156
+  offset: 24, 2
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_02
+  rotate: false
+  xy: 578, 154
+  size: 182, 146
+  orig: 204, 156
+  offset: 22, 3
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_03
+  rotate: false
+  xy: 702, 4
+  size: 182, 148
+  orig: 204, 156
+  offset: 22, 3
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_04
+  rotate: false
+  xy: 613, 618
+  size: 184, 150
+  orig: 204, 156
+  offset: 20, 2
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_05
+  rotate: false
+  xy: 809, 642
+  size: 188, 150
+  orig: 204, 156
+  offset: 16, 1
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_06
+  rotate: false
+  xy: 388, 268
+  size: 188, 148
+  orig: 204, 156
+  offset: 16, 1
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_07
+  rotate: false
+  xy: 2, 3
+  size: 190, 148
+  orig: 204, 156
+  offset: 14, 1
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_08
+  rotate: true
+  xy: 212, 163
+  size: 190, 148
+  orig: 204, 156
+  offset: 14, 1
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_09
+  rotate: true
+  xy: 236, 395
+  size: 190, 150
+  orig: 204, 156
+  offset: 14, 1
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_10
+  rotate: true
+  xy: 991, 794
+  size: 192, 152
+  orig: 204, 156
+  offset: 12, 1
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_11
+  rotate: false
+  xy: 1189, 636
+  size: 182, 156
+  orig: 204, 156
+  offset: 13, 0
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_12
+  rotate: false
+  xy: 605, 460
+  size: 184, 156
+  orig: 204, 156
+  offset: 12, 0
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_13
+  rotate: false
+  xy: 580, 302
+  size: 184, 156
+  orig: 204, 156
+  offset: 14, 0
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_14
+  rotate: false
+  xy: 362, 110
+  size: 186, 156
+  orig: 204, 156
+  offset: 14, 0
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_15
+  rotate: false
+  xy: 388, 418
+  size: 190, 156
+  orig: 204, 156
+  offset: 12, 0
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_16
+  rotate: false
+  xy: 999, 636
+  size: 188, 156
+  orig: 204, 156
+  offset: 15, 0
+  index: -1
+Phoenix_flame/bw_multi_vfx_b_screen_17
+  rotate: false
+  xy: 766, 302
+  size: 178, 156
+  orig: 204, 156
+  offset: 26, 0
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_00
+  rotate: false
+  xy: 1186, 210
+  size: 114, 126
+  orig: 258, 258
+  offset: 76, 21
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_01
+  rotate: false
+  xy: 1010, 8
+  size: 120, 132
+  orig: 258, 258
+  offset: 74, 19
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_02
+  rotate: false
+  xy: 886, 2
+  size: 122, 138
+  orig: 258, 258
+  offset: 74, 18
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_03
+  rotate: true
+  xy: 212, 31
+  size: 130, 148
+  orig: 258, 258
+  offset: 69, 16
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_04
+  rotate: false
+  xy: 910, 142
+  size: 140, 158
+  orig: 258, 258
+  offset: 62, 16
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_05
+  rotate: true
+  xy: 1206, 914
+  size: 158, 168
+  orig: 258, 258
+  offset: 52, 16
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_06
+  rotate: false
+  xy: 1206, 1074
+  size: 172, 180
+  orig: 258, 258
+  offset: 46, 16
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_07
+  rotate: false
+  xy: 809, 794
+  size: 180, 192
+  orig: 258, 258
+  offset: 47, 16
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_08
+  rotate: false
+  xy: 613, 770
+  size: 194, 202
+  orig: 258, 258
+  offset: 41, 16
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_09
+  rotate: false
+  xy: 2, 153
+  size: 208, 200
+  orig: 258, 258
+  offset: 35, 18
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_10
+  rotate: false
+  xy: 389, 758
+  size: 222, 214
+  orig: 258, 258
+  offset: 29, 16
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_11
+  rotate: false
+  xy: 2, 355
+  size: 232, 230
+  orig: 258, 258
+  offset: 23, 14
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_12
+  rotate: false
+  xy: 1028, 1010
+  size: 176, 244
+  orig: 258, 258
+  offset: 16, 11
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_13
+  rotate: true
+  xy: 389, 576
+  size: 180, 214
+  orig: 258, 258
+  offset: 12, 10
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_14
+  rotate: true
+  xy: 1145, 794
+  size: 118, 220
+  orig: 258, 258
+  offset: 59, 9
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_15
+  rotate: false
+  xy: 1251, 358
+  size: 120, 120
+  orig: 258, 258
+  offset: 58, 65
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_16
+  rotate: true
+  xy: 362, 22
+  size: 86, 122
+  orig: 258, 258
+  offset: 57, 68
+  index: -1
+dandelizi_unpack/bw_multi_particle_a_screen_17
+  rotate: false
+  xy: 1289, 514
+  size: 80, 120
+  orig: 258, 258
+  offset: 57, 76
+  index: -1
+five_of_a_kind-5k_vfx_c_screen
+  rotate: false
+  xy: 2, 974
+  size: 756, 280
+  orig: 756, 280
+  offset: 0, 0
+  index: -1
+free_spin-free_spin_remaining-frs_vfx_b_add
+  rotate: false
+  xy: 760, 988
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+mianfeiyouxibiaotishang/bw_multi_vfx_a_screen_00
+  rotate: false
+  xy: 1132, 4
+  size: 86, 86
+  orig: 156, 156
+  offset: 35, 35
+  index: -1
+mianfeiyouxibiaotishang/bw_multi_vfx_a_screen_01
+  rotate: false
+  xy: 1186, 92
+  size: 116, 116
+  orig: 156, 156
+  offset: 20, 20
+  index: -1
+mianfeiyouxibiaotishang/bw_multi_vfx_a_screen_02
+  rotate: false
+  xy: 1052, 190
+  size: 132, 132
+  orig: 156, 156
+  offset: 12, 12
+  index: -1
+mianfeiyouxibiaotishang/bw_multi_vfx_a_screen_03
+  rotate: false
+  xy: 1109, 338
+  size: 140, 140
+  orig: 156, 156
+  offset: 8, 8
+  index: -1
+mianfeiyouxibiaotishang/bw_multi_vfx_a_screen_04
+  rotate: false
+  xy: 762, 154
+  size: 146, 146
+  orig: 156, 156
+  offset: 5, 5
+  index: -1
+mianfeiyouxibiaotishang/bw_multi_vfx_a_screen_05
+  rotate: false
+  xy: 550, 2
+  size: 150, 150
+  orig: 156, 156
+  offset: 3, 3
+  index: -1
+mianfeiyouxibiaotishang/bw_multi_vfx_a_screen_06
+  rotate: false
+  xy: 1133, 480
+  size: 154, 154
+  orig: 156, 156
+  offset: 1, 1
+  index: -1
+mianfeiyouxibiaotishang/bw_multi_vfx_a_screen_07
+  rotate: false
+  xy: 953, 324
+  size: 154, 154
+  orig: 156, 156
+  offset: 1, 1
+  index: -1
+sb_vfx_d_add
+  rotate: false
+  xy: 2, 587
+  size: 385, 385
+  orig: 385, 385
+  offset: 0, 0
+  index: -1

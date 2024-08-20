@@ -1,0 +1,139 @@
+
+bigWin_ui.png
+size: 1310,1310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dasd
+  rotate: false
+  xy: 978, 567
+  size: 324, 119
+  orig: 324, 136
+  offset: 0, 8
+  index: -1
+fx_boom/tw_vfx_b_add_00
+  rotate: false
+  xy: 1180, 417
+  size: 128, 148
+  orig: 270, 270
+  offset: 69, 61
+  index: -1
+fx_boom/tw_vfx_b_add_01
+  rotate: true
+  xy: 738, 358
+  size: 148, 184
+  orig: 270, 270
+  offset: 58, 45
+  index: -1
+fx_boom/tw_vfx_b_add_02
+  rotate: true
+  xy: 978, 381
+  size: 184, 200
+  orig: 270, 270
+  offset: 38, 37
+  index: -1
+fx_boom/tw_vfx_b_add_03
+  rotate: true
+  xy: 2, 359
+  size: 198, 210
+  orig: 270, 270
+  offset: 31, 32
+  index: -1
+fx_boom/tw_vfx_b_add_04
+  rotate: true
+  xy: 546, 829
+  size: 214, 198
+  orig: 270, 270
+  offset: 28, 39
+  index: -1
+fx_boom/tw_vfx_b_add_05
+  rotate: true
+  xy: 546, 611
+  size: 216, 196
+  orig: 270, 270
+  offset: 27, 39
+  index: -1
+fx_boom/tw_vfx_b_add_06
+  rotate: false
+  xy: 246, 373
+  size: 214, 196
+  orig: 270, 270
+  offset: 24, 37
+  index: -1
+fx_boom/tw_vfx_b_add_07
+  rotate: true
+  xy: 528, 387
+  size: 222, 208
+  orig: 270, 270
+  offset: 21, 31
+  index: -1
+fx_boom/tw_vfx_b_add_08
+  rotate: false
+  xy: 744, 508
+  size: 232, 214
+  orig: 270, 270
+  offset: 16, 29
+  index: -1
+fx_boom/tw_vfx_b_add_09
+  rotate: false
+  xy: 274, 571
+  size: 252, 236
+  orig: 270, 270
+  offset: 8, 16
+  index: -1
+fx_boom/tw_vfx_b_add_10
+  rotate: false
+  xy: 274, 809
+  size: 270, 234
+  orig: 270, 270
+  offset: 0, 20
+  index: -1
+fx_boom/tw_vfx_b_add_11
+  rotate: false
+  xy: 746, 724
+  size: 270, 232
+  orig: 270, 270
+  offset: 0, 19
+  index: -1
+fx_boom/tw_vfx_b_add_12
+  rotate: false
+  xy: 2, 801
+  size: 270, 242
+  orig: 270, 270
+  offset: 0, 12
+  index: -1
+fx_boom/tw_vfx_b_add_13
+  rotate: false
+  xy: 2, 559
+  size: 242, 240
+  orig: 270, 270
+  offset: 12, 13
+  index: -1
+fx_boom/tw_vfx_b_add_14
+  rotate: false
+  xy: 1018, 688
+  size: 242, 222
+  orig: 270, 270
+  offset: 11, 23
+  index: -1
+fx_borderFX
+  rotate: true
+  xy: 1101, 912
+  size: 396, 193
+  orig: 396, 193
+  offset: 0, 0
+  index: -1
+textBg
+  rotate: false
+  xy: 2, 1045
+  size: 745, 263
+  orig: 748, 266
+  offset: 2, 2
+  index: -1
+win_highlight-wh_vfx_b_add
+  rotate: false
+  xy: 749, 958
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1

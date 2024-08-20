@@ -1,0 +1,160 @@
+
+freeGame_bgFX.png
+size: 1291,1291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird
+  rotate: false
+  xy: 2, 353
+  size: 432, 936
+  orig: 432, 936
+  offset: 0, 0
+  index: -1
+fx_bg
+  rotate: false
+  xy: 436, 353
+  size: 432, 936
+  orig: 432, 936
+  offset: 0, 0
+  index: -1
+fx_fire/bl_vfx_h_screen_00
+  rotate: false
+  xy: 1079, 672
+  size: 189, 146
+  orig: 241, 164
+  offset: 38, 11
+  index: -1
+fx_fire/bl_vfx_h_screen_01
+  rotate: true
+  xy: 563, 4
+  size: 189, 146
+  orig: 241, 164
+  offset: 39, 11
+  index: -1
+fx_fire/bl_vfx_h_screen_02
+  rotate: true
+  xy: 711, 6
+  size: 189, 146
+  orig: 241, 164
+  offset: 39, 11
+  index: -1
+fx_fire/bl_vfx_h_screen_03
+  rotate: false
+  xy: 1056, 76
+  size: 187, 146
+  orig: 241, 164
+  offset: 40, 11
+  index: -1
+fx_fire/bl_vfx_h_screen_04
+  rotate: true
+  xy: 411, 2
+  size: 191, 150
+  orig: 241, 164
+  offset: 39, 9
+  index: -1
+fx_fire/bl_vfx_h_screen_05
+  rotate: false
+  xy: 1077, 522
+  size: 195, 148
+  orig: 241, 164
+  offset: 37, 9
+  index: -1
+fx_fire/bl_vfx_h_screen_06
+  rotate: false
+  xy: 1075, 370
+  size: 197, 150
+  orig: 241, 164
+  offset: 36, 8
+  index: -1
+fx_fire/bl_vfx_h_screen_07
+  rotate: true
+  xy: 1079, 820
+  size: 201, 150
+  orig: 241, 164
+  offset: 33, 7
+  index: -1
+fx_fire/bl_vfx_h_screen_08
+  rotate: false
+  xy: 870, 405
+  size: 203, 150
+  orig: 241, 164
+  offset: 30, 7
+  index: -1
+fx_fire/bl_vfx_h_screen_09
+  rotate: true
+  xy: 1138, 1084
+  size: 205, 150
+  orig: 241, 164
+  offset: 28, 6
+  index: -1
+fx_fire/bl_vfx_h_screen_10
+  rotate: false
+  xy: 870, 557
+  size: 205, 152
+  orig: 241, 164
+  offset: 27, 3
+  index: -1
+fx_fire/bl_vfx_h_screen_11
+  rotate: false
+  xy: 870, 711
+  size: 207, 152
+  orig: 241, 164
+  offset: 26, 3
+  index: -1
+fx_fire/bl_vfx_h_screen_12
+  rotate: false
+  xy: 620, 197
+  size: 207, 154
+  orig: 241, 164
+  offset: 26, 2
+  index: -1
+fx_fire/bl_vfx_h_screen_13
+  rotate: false
+  xy: 411, 195
+  size: 207, 156
+  orig: 241, 164
+  offset: 26, 3
+  index: -1
+fx_fire/bl_vfx_h_screen_14
+  rotate: false
+  xy: 870, 865
+  size: 207, 156
+  orig: 241, 164
+  offset: 27, 4
+  index: -1
+fx_fire/bl_vfx_h_screen_15
+  rotate: false
+  xy: 870, 249
+  size: 199, 154
+  orig: 241, 164
+  offset: 33, 5
+  index: -1
+fx_fire/bl_vfx_h_screen_16
+  rotate: false
+  xy: 1071, 224
+  size: 195, 144
+  orig: 241, 164
+  offset: 37, 10
+  index: -1
+fx_fire/bl_vfx_h_screen_17
+  rotate: false
+  xy: 859, 103
+  size: 195, 144
+  orig: 241, 164
+  offset: 37, 11
+  index: -1
+fx_glowRound
+  rotate: true
+  xy: 2, 10
+  size: 341, 407
+  orig: 341, 407
+  offset: 0, 0
+  index: -1
+fx_shineParticle
+  rotate: false
+  xy: 870, 1023
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
